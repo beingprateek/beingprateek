@@ -4,6 +4,7 @@
 </div>
 
 
+[![](https://visitcount.itsvg.in/api?id=beingprateek&icon=5&color=5)](https://visitcount.itsvg.in)
 # 💫 About Me:
 💬 Ask me about Java and Python related stuff.<br>🌱 I’m currently learning SwiftUI and Advance MERN stack.
 
@@ -25,6 +26,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=beingprateek&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=beingprateek&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
