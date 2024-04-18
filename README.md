@@ -6,7 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=beingprateek&icon=5&color=5)](https://visitcount.itsvg.in)
 # 💫 About Me:
-💬 Ask me about Java and Python related stuff.<br>🌱 I’m currently learning SwiftUI and Advance MERN stack.
+💬 Ask me about Java and Python related stuff.<br>🌱 I’m currently learning SwiftUI.
 
 
 ## 🌐 Socials:
